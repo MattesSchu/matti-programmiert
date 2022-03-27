@@ -13,6 +13,8 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 16.x
+      - name: Ins Verzeichnis
+        run: cd ./programmieren
       - name: Installieren
         run: npm run install
       - name: Bauen
