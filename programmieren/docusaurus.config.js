@@ -51,7 +51,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'c++/casts',
+            docId: 'cpp/casts',
             position: 'left',
             label: 'Cast',
           },
@@ -71,7 +71,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/docs/cpp/casts',
               },
             ],
           },
