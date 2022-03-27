@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkprogrammieren=self.webpackChunkprogrammieren||[]).push([[897],{1980:function(e){e.exports=JSON.parse('{"permalink":"/blog/tags/matti","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

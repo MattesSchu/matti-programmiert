@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprogrammieren=self.webpackChunkprogrammieren||[]).push([[937],{276:function(a){a.exports=JSON.parse('{"allTagsPath":"/matti-programmiert/blog/tags","name":"matti","count":1,"permalink":"/matti-programmiert/blog/tags/matti"}')}}]);

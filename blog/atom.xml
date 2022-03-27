@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://mattesschu.github.io/matti-programmiert/blog</id>
+    <id>https://mattesschu.github.io/matti-programmiert/matti-programmiert/blog</id>
     <title>My Site Blog</title>
     <updated>2022-03-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://mattesschu.github.io/matti-programmiert/blog"/>
+    <link rel="alternate" href="https://mattesschu.github.io/matti-programmiert/matti-programmiert/blog"/>
     <subtitle>My Site Blog</subtitle>
-    <icon>https://mattesschu.github.io/matti-programmiert/img/favicon.ico</icon>
+    <icon>https://mattesschu.github.io/matti-programmiert/matti-programmiert/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Willkommen]]></title>
         <id>welcome</id>
-        <link href="https://mattesschu.github.io/matti-programmiert/blog/welcome"/>
+        <link href="https://mattesschu.github.io/matti-programmiert/matti-programmiert/blog/welcome"/>
         <updated>2022-03-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Startschuss für eine eigene kleine Doku-Seite mit hoffentlichen spaßigen Projekten und für andere auch Interessanten Erkenntnissen 🤗]]></summary>
         <content type="html"><![CDATA[<p>Startschuss für eine eigene kleine Doku-Seite mit hoffentlichen spaßigen Projekten und für andere auch Interessanten Erkenntnissen 🤗</p>]]></content>

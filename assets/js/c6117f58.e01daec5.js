@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprogrammieren=self.webpackChunkprogrammieren||[]).push([[421],{3383:function(e){e.exports=JSON.parse('{"permalink":"/matti-programmiert/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
