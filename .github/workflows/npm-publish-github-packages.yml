@@ -13,16 +13,14 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 16.x
-      - name: Ins Verzeichnis
-        run: cd programmieren
-      - run: ls
-      - run: dir
       - name: Installieren
+        working-directory: ./programmieren
         run: npm install
       - name: Bauen
+        working-directory: ./programmieren
         run: npm run build
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build
+          publish_dir: ./programmieren/build
