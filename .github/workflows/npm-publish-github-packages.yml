@@ -14,7 +14,7 @@ jobs:
         with:
           node-version: 16.x
       - name: Ins Verzeichnis
-        run: cd ./programmieren
+        run: cd programmieren
       - run: ls
       - run: dir
       - name: Installieren
