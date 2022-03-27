@@ -1,8 +1,8 @@
 ## stati_cast
 
-Ich glaube das es bei dem `cast` um das Verb `gießen` handeln soll. Es beschreibt anschaulich, dass ein Eingangsobjekt in eine _neue Form_ `gegossen` wird.
+Beim Wort `cast` handelt es sich im technische und wörtlichen Sinne um das Verb `gießen`. Es beschreibt anschaulich, dass ein Eingangsobjekt in eine _neue Form_ `gegossen` wird.
 
-Es  benutzt um eine `implizite` Konvertierung umzudrehen. Es wird also vom Programmierer angenommen, dass es genau den neuen Typ hat. Die Konvertierung vollführt dann **keine** Überprüfungen zur Laufzeit.
+Der `static cast` wird benutzt, um eine `implizite` Konvertierung umzudrehen. Es wird also vom Programmierenden erwartet, dass genau gewusst wird, welcher Typ das Objekt hat oder haben kann. Die Konvertierung vollführt dann **keine** Überprüfungen zur Laufzeit.
 
 > im·pli·zit
 > 1. mit enthalten, mit gemeint, aber nicht ausdrücklich gesagt "implizite Drohungen Forderungen"
