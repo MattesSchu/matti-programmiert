@@ -16,7 +16,7 @@ jobs:
       - name: Ins Verzeichnis
         run: cd ./programmieren
       - name: Installieren
-        run: npm run install
+        run: npm install
       - name: Bauen
         run: npm run build
       - name: Deploy
